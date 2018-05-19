@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 I'm master
 I'm master
 I'm master
 I'm master
+=======
+This is issue
+This is issue
+This is issue
+This is issue
+>>>>>>> issue
